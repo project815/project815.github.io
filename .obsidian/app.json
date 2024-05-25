@@ -1,0 +1,14 @@
+{
+  "userIgnoreFilters": [
+    "_data/",
+    "_includes/",
+    "_javascript/",
+    "_layouts/",
+    "_plugins/",
+    "_sass/",
+    "_site/",
+    "_site/",
+    "_tabs/",
+    "node_modules/concat-map/"
+  ]
+}

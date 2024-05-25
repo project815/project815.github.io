@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1063c81a694058c9",
+        "id": "f26427299371c4ac",
         "type": "tabs",
         "children": [
           {
-            "id": "b93822c89d0626b9",
+            "id": "2cbb8090d6a1c494",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-05-24-1. 배열, 동적 배열, 연결리스트 비교.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-24-1. 배열, 동적 배열, 연결리스트 비교.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-24-1. 배열, 동적 배열, 연결리스트 비교.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2024-05-24-1. 배열, 동적 배열, 연결리스트 비교.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b93822c89d0626b9",
+  "active": "2cbb8090d6a1c494",
   "lastOpenFiles": [
+    "_posts/2024-05-26-2. 동적 배열 구현 연습.md",
+    "_site/posts/2.-동적-배열-구현-연습/index.html",
+    "_site/posts/2.-동적-배열-구현-연습",
+    "_posts/2024-05-24-1. 배열, 동적 배열, 연결리스트 비교.md",
     "node_modules/stylelint-scss/README.md",
     "src/rules/percent-placeholder-pattern/README.md",
     "src/rules/percent-placeholder-pattern",
@@ -155,7 +151,6 @@
     "src/rules/dollar-variable-pattern",
     "src/rules",
     "src",
-    "_posts/2024-05-24-1. 배열, 동적 배열, 연결리스트 비교.md",
     "Pasted image 20240524173029.png"
   ]
 }

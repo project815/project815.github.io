@@ -127,8 +127,6 @@ In addition, heap memory is not associated with a specific function or process.�
 ## 참조 및 기타 참조할 만한 글(메모리 구조에 대한 설명)
 <https://www.geeksforgeeks.org/stack-vs-heap-memory-allocation/>
 <br>
-<http://bucarotechelp.com/computers/architecture/81051201.asp#google_vignette>
-<br>
 <https://www.spiceworks.com/tech/devops/articles/fifo-vs-lifo/>
 <br>
 <https://www.baeldung.com/cs/memory-stack-vs-heap>

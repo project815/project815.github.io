@@ -39,7 +39,7 @@ order: 4
 
 ## **프로젝트**
 
-[포트폴리오 링크입니다.](http://127.0.0.1:4000)
+[포트폴리오 링크입니다.](https://garnet-freckle-be4.notion.site/7e9cdffd99c142848b0d39965732d537)
 
   
 

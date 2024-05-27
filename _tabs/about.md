@@ -14,8 +14,10 @@ order: 4
 ## **기술스택**
 
 **C#, Unity, Nextjs, Firebase**
+
 ## **협업도구**
 **Notion, Jira, Git, plasticSCM**
+
 <!-- ## **교육**
 
 | **학교명**             | **재학기간**                    | **전공**                                | **취득학점**  | **졸업구분**   |
